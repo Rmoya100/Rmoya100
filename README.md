@@ -39,7 +39,7 @@
   <td width= 25% align="center">
     <div align="center">
       <a href="https://github.com/Rmoya100/PeluqueriaCanina">
-        <br><img src="https://github.com/user-attachments/assets/9da4f66a-4cd4-4fb2-bdc9-69fa85930751" alt="PeluqueriaCanina" width="250" height="100"/>
+        <br><img width="250" height="100" alt="PeluqueriaCanina" src="https://github.com/user-attachments/assets/cdfd72c2-65e9-42a8-8bbc-b71d8d6ecc39" />
       </a>
       <br><br>
       <a href="https://github.com/Rmoya100/PeluqueriaCanina" target="blank">
@@ -51,7 +51,7 @@
   <td width= 25% align="center">
     <div align="center">
       <a href="https://github.com/Rmoya100/CardPockemon">
-       <br><img src="https://github.com/user-attachments/assets/7f9b33fc-159a-4932-a724-e7a0a15e398e" alt="CardPokémon" width="250" height="100"/>
+       <br><img width="250" height="100" alt="CardPokémon" src="https://github.com/user-attachments/assets/89b58ad8-a676-4ad6-9529-07ce54c49c24" />
       </a>
       <br><br>
       <a href="https://github.com/Rmoya100/CardPockemon" target="blank">
@@ -63,7 +63,7 @@
   <td width= 25% align="center">
     <div align="center">
       <a href="https://github.com/Rmoya100/Pagina-web-para-restaurant">
-       <br><img src="https://github.com/user-attachments/assets/1051041b-4471-4fec-a294-5fdf61f0701c" alt="Restaurant" width="250" height="200"/>
+       <br><img width="250" height="200" alt="ImgenRestaurant" src="https://github.com/user-attachments/assets/9303120e-e9b6-4f32-8952-6b16ddf2c645" />
       </a>
       <br><br>
       <a href="https://github.com/Rmoya100/Pagina-web-para-restaurant" target="blank">
@@ -75,7 +75,7 @@
   <td width= 25% align="center">
     <div align="center">
       <a href="https://github.com/Rmoya100/Calculadora">
-        <br><img src="https://github.com/user-attachments/assets/a11a0697-e81e-4f1a-988a-964c3a5b74e8" alt="Calculadora" width="100" height="100"/>
+        <br><img width="260" height="100" alt="Calculadora" src="https://github.com/user-attachments/assets/6b8b8699-b955-4c06-8da3-315d497a7661" />
       </a>
       <br><br>
       <a href="https://github.com/Rmoya100/Calculadora" target="blank">
@@ -95,7 +95,7 @@
    <tr border="none">
      <td width= "30%" align="center" border="none" >
       <a> 
-        <img width="500" height="427" alt="image" src="https://github.com/user-attachments/assets/6f4b4d71-f63d-482f-84e2-8ea9fbc4e2ba" />
+        <img width="508" height="391" alt="image" src="https://github.com/user-attachments/assets/4328dd32-e754-4db4-bc86-0c0efe698b42" />
       </a>
     </td>  
  
