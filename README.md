@@ -10,11 +10,11 @@
 <!--Intro start-->
 
 <p align="left">
-🎓Ingeniero en Informática y Analista Programador
+🎓Ingeniero en Informática 
 
 💻 Me especializo en el análisis de datos, automatización de procesos y gestión de documentos 🙈  
 💡 Experiencia sólida en SQL Server, Python, Django y Power BI, con enfoque en soluciones claras y eficientes.  
-🚀 Práctica profesional en Sonda S.A.(area de automatización y control de la calidad), destacando por adaptabilidad y presentaciones técnicas.
+🚀 Práctica profesional en Sonda S.A.(area de automatización y control de la calidad)
 
 
 📫 Contacto: **rfmoya100@gmail.com**
